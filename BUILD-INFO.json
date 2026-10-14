@@ -1,0 +1,28 @@
+{
+  "grammar": 1632,
+  "sources": {
+    "English Grammar In Use Exercises": 809,
+    "English Grammar In Use Activities": 623,
+    "Advanced English Grammar In Use Activities": 200
+  },
+  "grammarModes": {
+    "type": 701,
+    "choice": 931
+  },
+  "multipleChoice": 47,
+  "multipleGaps": 81,
+  "cardsWithAudio": 5471,
+  "grammarWithAudio": 838,
+  "audioFiles": 15947,
+  "mediaBytes": 331650446,
+  "missing": [],
+  "videos": 0,
+  "fallbackAudioMatches": 0,
+  "wordCards": 6082,
+  "imagesGrammar": 86,
+  "originalDictionaryPreserved": true,
+  "originalCoursePreserved": true,
+  "sourceAudioReferenced": 16151,
+  "audioBulkOfflineCache": false,
+  "deployment": "Static files only; not published; no server authentication or cross-device sync"
+}

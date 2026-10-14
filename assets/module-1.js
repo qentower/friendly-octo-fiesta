@@ -1,0 +1,1 @@
+window.WORDLY_SINGLE=false;
